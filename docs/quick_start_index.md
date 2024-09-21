@@ -3,7 +3,7 @@ title: "Quick Start to Home Assistant Data Science"
 id: "quick-start"
 sidebar_label: "Getting Started"
 ---
-
+DOES NOT WORK AT ALL - DO NOT INSTALL
 In this quick start guide, we're going to show you how to set up and use [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/), a data science environment. JupyterLab is the tool of choice for data scientists around the globe. Using JupyterLab we will run some reports on your own data. All reports are editable so you can quickly start experimenting and exploring more!
 
 ## Installing JupyterLab
